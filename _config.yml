@@ -1,5 +1,18 @@
-title: Pawan Poojary
-logo: 
-description: Lhhhhhh
-show_downloads: true
-theme: jekyll-theme-minimal
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Site Title"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
+
+
+
+
+#title: Pawan Poojary
+#logo: 
+#description: Lhhhhhh
+#show_downloads: true
+#theme: jekyll-theme-minimal
